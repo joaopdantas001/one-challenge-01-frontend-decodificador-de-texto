@@ -1,0 +1,22 @@
+#conteiner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  border-color: black;
+  border-style: solid;
+  width: 650px;
+  background-color: brown;
+  padding: 10px;
+}
+#containerCaixa {
+  display: flex;
+  justify-content: space-between;
+  border-color: black;
+  border-style: solid;
+  width: 600px;
+  background-color: blue;
+}
+#containerBotao {
+  
+}
